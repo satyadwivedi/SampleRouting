@@ -89,8 +89,7 @@
         "type": "View",
         "path": "com.satya.routingapp.view",
         "controlId": "app",
-        "controlAggregation": "pages",
-        "async": true
+        "controlAggregation": "pages"
       },
       "routes": [
         {
